@@ -1,0 +1,15 @@
+C:\Users\xzemt\Deu_hub\DeuStudentHub\src\DeuStudentHub.Application\bin\Debug\net10.0\DeuStudentHub.Application.deps.json
+C:\Users\xzemt\Deu_hub\DeuStudentHub\src\DeuStudentHub.Application\bin\Debug\net10.0\DeuStudentHub.Application.dll
+C:\Users\xzemt\Deu_hub\DeuStudentHub\src\DeuStudentHub.Application\bin\Debug\net10.0\DeuStudentHub.Application.pdb
+C:\Users\xzemt\Deu_hub\DeuStudentHub\src\DeuStudentHub.Application\bin\Debug\net10.0\DeuStudentHub.Domain.dll
+C:\Users\xzemt\Deu_hub\DeuStudentHub\src\DeuStudentHub.Application\bin\Debug\net10.0\DeuStudentHub.Domain.pdb
+C:\Users\xzemt\Deu_hub\DeuStudentHub\src\DeuStudentHub.Application\obj\Debug\net10.0\DeuStudentHub.Application.csproj.AssemblyReference.cache
+C:\Users\xzemt\Deu_hub\DeuStudentHub\src\DeuStudentHub.Application\obj\Debug\net10.0\DeuStudentHub.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xzemt\Deu_hub\DeuStudentHub\src\DeuStudentHub.Application\obj\Debug\net10.0\DeuStudentHub.Application.AssemblyInfoInputs.cache
+C:\Users\xzemt\Deu_hub\DeuStudentHub\src\DeuStudentHub.Application\obj\Debug\net10.0\DeuStudentHub.Application.AssemblyInfo.cs
+C:\Users\xzemt\Deu_hub\DeuStudentHub\src\DeuStudentHub.Application\obj\Debug\net10.0\DeuStudentHub.Application.csproj.CoreCompileInputs.cache
+C:\Users\xzemt\Deu_hub\DeuStudentHub\src\DeuStudentHub.Application\obj\Debug\net10.0\DeuStude.7C1423F4.Up2Date
+C:\Users\xzemt\Deu_hub\DeuStudentHub\src\DeuStudentHub.Application\obj\Debug\net10.0\DeuStudentHub.Application.dll
+C:\Users\xzemt\Deu_hub\DeuStudentHub\src\DeuStudentHub.Application\obj\Debug\net10.0\refint\DeuStudentHub.Application.dll
+C:\Users\xzemt\Deu_hub\DeuStudentHub\src\DeuStudentHub.Application\obj\Debug\net10.0\DeuStudentHub.Application.pdb
+C:\Users\xzemt\Deu_hub\DeuStudentHub\src\DeuStudentHub.Application\obj\Debug\net10.0\ref\DeuStudentHub.Application.dll

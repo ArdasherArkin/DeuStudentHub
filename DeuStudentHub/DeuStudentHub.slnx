@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DeuStudentHub.API/DeuStudentHub.API.csproj" />
+    <Project Path="src/DeuStudentHub.Application/DeuStudentHub.Application.csproj" />
+    <Project Path="src/DeuStudentHub.Domain/DeuStudentHub.Domain.csproj" />
+    <Project Path="src/DeuStudentHub.Infrastructure/DeuStudentHub.Infrastructure.csproj" />
+  </Folder>
+</Solution>

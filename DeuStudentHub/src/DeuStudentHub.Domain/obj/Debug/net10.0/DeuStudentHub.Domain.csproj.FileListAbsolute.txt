@@ -1,0 +1,11 @@
+C:\Users\xzemt\Deu_hub\DeuStudentHub\src\DeuStudentHub.Domain\bin\Debug\net10.0\DeuStudentHub.Domain.deps.json
+C:\Users\xzemt\Deu_hub\DeuStudentHub\src\DeuStudentHub.Domain\bin\Debug\net10.0\DeuStudentHub.Domain.dll
+C:\Users\xzemt\Deu_hub\DeuStudentHub\src\DeuStudentHub.Domain\bin\Debug\net10.0\DeuStudentHub.Domain.pdb
+C:\Users\xzemt\Deu_hub\DeuStudentHub\src\DeuStudentHub.Domain\obj\Debug\net10.0\DeuStudentHub.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xzemt\Deu_hub\DeuStudentHub\src\DeuStudentHub.Domain\obj\Debug\net10.0\DeuStudentHub.Domain.AssemblyInfoInputs.cache
+C:\Users\xzemt\Deu_hub\DeuStudentHub\src\DeuStudentHub.Domain\obj\Debug\net10.0\DeuStudentHub.Domain.AssemblyInfo.cs
+C:\Users\xzemt\Deu_hub\DeuStudentHub\src\DeuStudentHub.Domain\obj\Debug\net10.0\DeuStudentHub.Domain.csproj.CoreCompileInputs.cache
+C:\Users\xzemt\Deu_hub\DeuStudentHub\src\DeuStudentHub.Domain\obj\Debug\net10.0\DeuStudentHub.Domain.dll
+C:\Users\xzemt\Deu_hub\DeuStudentHub\src\DeuStudentHub.Domain\obj\Debug\net10.0\refint\DeuStudentHub.Domain.dll
+C:\Users\xzemt\Deu_hub\DeuStudentHub\src\DeuStudentHub.Domain\obj\Debug\net10.0\DeuStudentHub.Domain.pdb
+C:\Users\xzemt\Deu_hub\DeuStudentHub\src\DeuStudentHub.Domain\obj\Debug\net10.0\ref\DeuStudentHub.Domain.dll
